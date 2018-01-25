@@ -1,0 +1,14 @@
+{
+  "name": "modulesapp",
+  "version": "0.0.1",
+  "_comment": "major, minor, patch",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts" : {
+    "start" : "nodemon app.js"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
